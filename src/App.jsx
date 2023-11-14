@@ -16,8 +16,8 @@ function App() {
     <>
       
       <br />
-      <Card /item={item1} />
-      <Card /item={item2} />
+      <Card item={item1} />
+      <Card item={item2} />
     </>
   )
 }
