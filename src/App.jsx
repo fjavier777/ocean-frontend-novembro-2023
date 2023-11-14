@@ -17,7 +17,7 @@ function App() {
     imageUrl: "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
   }
 
-  const items = [item1, item1, item3]
+  const items = [item1, item2, item3]
 
   return (
     <>
